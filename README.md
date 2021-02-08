@@ -51,6 +51,6 @@ in JSON format type the key `"content"` and the some text `"this is a new messag
 add a specific UUID to the following: `<BASE_URL>/api/v1/messages/UUID` 
 and use a `DELETE` request
 
-##License
+## License
 GNU General Public License
 
