@@ -1,4 +1,4 @@
-# REST API for maintaining messages
+# 👩‍💻 REST API for maintaining messages
 
 ## About api-messages
 The following statements are true about a message:
